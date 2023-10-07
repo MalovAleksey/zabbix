@@ -21,8 +21,8 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 1](ссылка на скриншот 1)`
+
+![Скрин 1](https://github.com/MalovAleksey/zabbix/blob/master/2023-10-06_20-14-21.png)
 
 
 ---
@@ -50,8 +50,10 @@
 ....
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Название скриншота 2](ссылка на скриншот 2)`
+
+![Скрин Configuration > Hosts](https://github.com/MalovAleksey/zabbix/blob/master/2023-10-06_21-45-53.png)
+![Скрин host-1 Monitoring > Latest data](https://github.com/MalovAleksey/zabbix/blob/master/2023-10-06_21-51-33.png)
+![Скрин host-2 Monitoring > Latest data](https://github.com/MalovAleksey/zabbix/blob/master/2023-10-06_21-52-08.png)
 
 
 ---
